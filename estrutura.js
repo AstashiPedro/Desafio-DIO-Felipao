@@ -46,4 +46,5 @@ while (XP >= 0) {
         } else if (XP >= 10000) {
             nivel = "Radiante"
         }
+    console.log("Voce está no nível" + XP + nivel)
 }
